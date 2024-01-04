@@ -1,0 +1,23 @@
+{
+  "name": "learn-nodejs-express",
+  "version": "1.0.0",
+  "description": "Learn Nodejs and Express Framework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pxlphap/express"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "Phap dep chai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
